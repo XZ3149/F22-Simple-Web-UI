@@ -1,5 +1,5 @@
 export class ColumbiaStudent {
-  guid: string;
+  uni: string;
   last_name: string;
   first_name: string;
   middle_name: string;
